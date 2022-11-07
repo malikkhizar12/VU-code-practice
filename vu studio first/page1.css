@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(191, 130, 38);
+}
+h3{
+    color: blue;
+}
+table
+{
+    padding: 50px;
+    margin:auto;
+    margin-top: 40px;
+}
+table, td
+{
+    border: 1px solid black;
+    width: 100px;
+    height: 150px;
+    background-color:black;
+    color: antiquewhite;
+    border-color: bisque;
+  
+    
+}
+td{
+    border-radius: 50px;
+    background-color:brown;
+    padding:40px;
+}
